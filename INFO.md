@@ -1,2 +1,1 @@
-git is awesome! 
-another text for example
+add new content!
