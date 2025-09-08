@@ -1,1 +1,1 @@
-new INFO file for lesson
+git is awesome! 
